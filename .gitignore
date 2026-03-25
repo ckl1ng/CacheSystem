@@ -1,0 +1,13 @@
+# 忽略编译文件夹
+build/
+bin/
+
+# 忽略 IDE 配置文件
+.vscode/
+.idea/
+
+# 忽略编译产物
+*.o
+*.a
+*.so
+CacheBenchmark
